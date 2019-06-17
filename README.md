@@ -1,1 +1,1 @@
-# RH-OpenJDK-Docs
+# Sample Docs for Shared MW Docs Demo
