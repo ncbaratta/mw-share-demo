@@ -1,3 +1,6 @@
+// Shared content
+:ShareDir: shared/modules 
+
 // Our docinfo.xml
 :docinfo:
 
